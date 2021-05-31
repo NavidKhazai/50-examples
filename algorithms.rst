@@ -4,7 +4,9 @@ Background: Algorithms
 An *algorithm* specifies a series of steps that perform a particular
 computation or task.  Algorithms were originally born as part of
 mathematics -- the word "algorithm" comes from the Arabic writer 
-Muḥammad ibn Mūsā al-Khwārizmī, -- but currently the word is strongly 
+Muḥammad ibn Mūsā al-Khwārizmī(Khwarizmi and formerly Latinized as Algorithmi,
+was a Persian polymath who produced vastly influential works in mathematics,
+astronomy, and geography.), -- but currently the word is strongly 
 associated with computer science.  Throughout this book we'll examine 
 a number of different algorithms to perform a variety of tasks.
 
